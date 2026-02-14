@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "0f73754ce67fb814",
+    "type": "split",
+    "children": [
+      {
+        "id": "849dd3589e510192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a28c2df59fed7d0b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f19653816f6a1cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3abd2ff8e21c6c78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb4a184a8fe8b7cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "9cefebee0f41ccc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b22c2b21fd6b7499",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c9352f959addbde",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5cbb672aa3d3214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6452092c5caaa464",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "814e1231b3799adf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "f698c1330da5cde0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "23b2eec9757f639b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "d3ddf76946456c75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "f073083b42716e2b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a28c2df59fed7d0b",
+  "lastOpenFiles": [
+    "01_Документация/Git/Commit.md",
+    "01_Документация/Git/git commit.md",
+    "01_Документация/Git/Staging Area.md",
+    "02_База_знаний/Концепции/Git/Локальный репозиторий (Рабочая директория).md",
+    "02_База_знаний/Концепции/Git/Без названия.md",
+    "02_База_знаний/Концепции/Git/Локальный и Глобальный конфиги.md",
+    "06_Обучение/Планы/Git.md",
+    "01_Документация/Документация.md",
+    "02_База_знаний/Концепции/Git/Что такое репозиторий.md",
+    "02_База_знаний/Концепции/Git/Зачем нужен контроль версий?.md",
+    "02_База_знаний/Концепции/Git/Отличия Git от других СКВ.md",
+    "02_База_знаний/Концепции/Git/Что такое контроль версий?.md",
+    "git merge.md",
+    "01_Документация/Git/git pull.md",
+    "01_Документация/Git/git remote.md",
+    "01_Документация/Git/git reset.md",
+    "git push.md",
+    "git revert.md",
+    "01_Документация/Git/git init.md",
+    "01_Документация/Git/git fetch.md",
+    "01_Документация/Git/git add.md",
+    "01_Документация/Git/git config.md",
+    "`[git config.md",
+    "02_База_знаний/База знаний.md",
+    "04_Инструкции/Git/Локальная установка Git.md",
+    "02_База_знаний/Концепции/Git",
+    "04_Инструкции/Git",
+    "04_Инструкции/Инструкции.md"
+  ]
+}
