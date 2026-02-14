@@ -11,10 +11,14 @@
             "id": "a28c2df59fed7d0b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_Документация/Git/git revert.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "git revert"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_Документация/Git/git revert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для git revert"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_Документация/Git/git revert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из git revert"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Документация/Git/git revert.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура git revert"
             }
           },
           {
@@ -188,7 +195,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a28c2df59fed7d0b",
+  "active": "cb4a184a8fe8b7cd",
   "lastOpenFiles": [
     "01_Документация/Git/Commit.md",
     "01_Документация/Git/git commit.md",
@@ -202,12 +209,12 @@
     "02_База_знаний/Концепции/Git/Зачем нужен контроль версий?.md",
     "02_База_знаний/Концепции/Git/Отличия Git от других СКВ.md",
     "02_База_знаний/Концепции/Git/Что такое контроль версий?.md",
-    "git merge.md",
+    "01_Документация/Git/git merge.md",
     "01_Документация/Git/git pull.md",
     "01_Документация/Git/git remote.md",
     "01_Документация/Git/git reset.md",
-    "git push.md",
-    "git revert.md",
+    "01_Документация/Git/git push.md",
+    "01_Документация/Git/git revert.md",
     "01_Документация/Git/git init.md",
     "01_Документация/Git/git fetch.md",
     "01_Документация/Git/git add.md",
